@@ -12,7 +12,7 @@
 With the divine grace of the almighty,
 inviting you and your family to younger sister's wedding to be held on **14th February at [Sunrise Dnyanpeeth](https://goo.gl/maps/bpzytfjpYg9o95A6A), Sasti from 11:00 AM** onwards.
 
-- [Download](https://akshaymahalle.github.io/WeddingInvitation_16March/Wedding-Invitation-master/invitation/My%20Invitation.pdf) the Invitation card
+- [Download](https://github.com/akshaymahalle/Namrta-Vs-Swapnil/blob/main/14th%20Feb/invitation/My%20Invitation.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/bpzytfjpYg9o95A6A) on Google map
 
