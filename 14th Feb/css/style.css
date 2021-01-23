@@ -513,11 +513,11 @@ body {
 }
 
 .minutes {
-	background-color: #ffff00;
+	background: linear-gradient(90deg, #ff0000, #800000);
 }
 
 .seconds {
-	background-color: #0000ff;
+	background: linear-gradient(90deg, #00ff00, #003300);
 }
 
 .date {
