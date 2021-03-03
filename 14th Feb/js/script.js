@@ -68,7 +68,7 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: 14th FEB, 2021!', styles);
+console.log('\n\n%c SAVE THE DATE: 16th MAR, 2021!', styles);
 
 console.log('%cYour presence is requested!%c\n\nRegards: Akshay Mahalle', styles1, styles2);
 
